@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="3" name="Google Translate" skipped="0" tests="3" time="96.81" timestamp="2018-07-04 01:32:20"><testcase name="Translate from English to Spanish"><failure message="The following error occurred: Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">The following error occurred: Expected enabled element was not enabled</failure><system-err>The following error occurred: Expected enabled element was not enabled&#13;
+co.com.bancolombia.certification.googlesuite.tasks.OpenTheBrowser.performAs(OpenTheBrowser.java:24)&#13;
+co.com.bancolombia.certification.googlesuite.step_definitions.GoogleTranslateStepDefinitions.thatSusanWantsToTranslateAWord(GoogleTranslateStepDefinitions.java:36)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase><testcase name="Translate from Spanish to English"><failure message="The following error occurred: Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">The following error occurred: Expected enabled element was not enabled</failure><system-err>The following error occurred: Expected enabled element was not enabled&#13;
+co.com.bancolombia.certification.googlesuite.tasks.OpenTheBrowser.performAs(OpenTheBrowser.java:24)&#13;
+co.com.bancolombia.certification.googlesuite.step_definitions.GoogleTranslateStepDefinitions.thatSusanWantsToTranslateAWord(GoogleTranslateStepDefinitions.java:36)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase><testcase name="Translate from Japanese to English"><failure message="The following error occurred: Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">The following error occurred: Expected enabled element was not enabled</failure><system-err>The following error occurred: Expected enabled element was not enabled&#13;
+co.com.bancolombia.certification.googlesuite.tasks.OpenTheBrowser.performAs(OpenTheBrowser.java:24)&#13;
+co.com.bancolombia.certification.googlesuite.step_definitions.GoogleTranslateStepDefinitions.thatSusanWantsToTranslateAWord(GoogleTranslateStepDefinitions.java:36)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

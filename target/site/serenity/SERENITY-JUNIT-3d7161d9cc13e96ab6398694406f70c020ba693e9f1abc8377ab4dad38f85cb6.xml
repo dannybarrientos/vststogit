@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Youtube" skipped="0" tests="1" time="30.6" timestamp="2018-07-04 01:34:00"><testcase name="Search an existing video"><failure message="The following error occurred: Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">The following error occurred: Expected enabled element was not enabled</failure><system-err>The following error occurred: Expected enabled element was not enabled&#13;
+co.com.bancolombia.certification.googlesuite.tasks.OpenTheBrowser.performAs(OpenTheBrowser.java:24)&#13;
+co.com.bancolombia.certification.googlesuite.step_definitions.YoutubeStepDefinitions.thatMikeWantsToWatchAVideo(YoutubeStepDefinitions.java:36)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
